@@ -48,6 +48,8 @@ Online_Bookstore_SQL_Project/
 
 ---
 
+https://github.com/Tejus346/online_book_store/blob/main/online_book_store/mysql_workbench.png
+
 ## 🛠️ Tools Used:
 
 - MySQL 8.0
